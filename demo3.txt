@@ -6,4 +6,4 @@ sudo yum install nginx -y
 
 sudo systemctl start nginx
 
-sudo systemctl enable ngi
+sudo systemctl enable nginx 

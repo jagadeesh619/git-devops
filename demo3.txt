@@ -9,3 +9,6 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 sudo systemctl install httpd
+
+
+sudo systemctl start httpd
